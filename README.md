@@ -1,11 +1,19 @@
-A responsive front-end project built using HTML, CSS, and Bootstrap, where I 
-designed an improved and modern version of the official Samsung website to 
-enhance user experience and visual appeal.
+# Samsung Website Clone – Project Description
 
-Developed a responsive clone of the Samsung website using technologies like 
-HTML, CSS, and Bootstraps.
+# Project Description:
 
-Designed responsive web pages compatible with all screen sizes using Bootstrap 
-grid system.
+Developed a responsive Samsung Website Clone replicating the design and user interface of Samsung's official website. Implemented modern web development practices to create an engaging and mobile-friendly experience, featuring product showcases, navigation menus, promotional banners, and responsive layouts.
 
-Gained hands-on experience in front-end development and responsive design.
+# Key Features
+1. Responsive design for desktop, tablet, and mobile devices
+2. Interactive navigation bar and menus
+3. Product listing and showcase sections
+4. Promotional banners and image sliders
+5. Modern UI/UX design
+6. Cross-browser compatibility
+
+# Technologies Used
+1. HTML5
+2. CSS3
+3. JavaScript
+4. Bootstrap.
